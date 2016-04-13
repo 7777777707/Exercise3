@@ -10,7 +10,7 @@ public class JUnit_Test extends ActivityInstrumentationTestCase2<MainActivity>{
 
 
     public JUnit_Test(){
-        super(MainActivity.class)
+        super(MainActivity.class);
     }
 
     public void test1(){
